@@ -1,21 +1,10 @@
 import React from "react";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCoffee, faHeart, faHome } from '@fortawesome/free-solid-svg-icons';
 
 function PlansAndClients() {
   return (
     <>
       <section className="plansAndClients pt-24 pb-10">
         <div className="container">
-          <p>
-            <p className="text-red-600">
-              <FontAwesomeIcon icon={faHeart}  color="red" className="icon" size="10x" />
-              <span style="font-size: 48px; color: Dodgerblue;">
-                <i class="fas fa-bomb"></i>
-              </span>
-            </p>
-            <FontAwesomeIcon icon={faHome} size="2x" />
-          </p>
           <div className="plans mb-10">
             <div className="flex flex-col items-center">
               <h3 className="text-[32px] font-bold mb-6">

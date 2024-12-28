@@ -50,3 +50,7 @@
 .plansAndClients{
   background: rgb(55,56,60);
 }
+.icons{
+  color: red !important;
+  position: absolute;
+}

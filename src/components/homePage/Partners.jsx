@@ -12,7 +12,7 @@ function Partners() {
             </div>
             <div className="flex items-center gap-4">
               <img src="src\assests\partners\videoask-logo.png" style={{ height: "50px" }} alt="video ask company logo"/>
-              <img className="relative bottom-[3px] right-2 h-[60px]" src="src\assests\partners\hubspot-logo.png" alt="hubspot company logo"/>
+              <img className="relative bottom-[3px] right-3 h-[60px]" src="src\assests\partners\hubspot-logo.png" alt="hubspot company logo"/>
               <img src="src\assests\partners\mapbox-logo.png" style={{ height: "50px" }} alt="mapbox company logo"/>
             </div>
           </div>

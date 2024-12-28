@@ -1,6 +1,4 @@
 import React from "react";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faCoffee } from '@fortawesome/free-solid-svg-icons'; 
 
 function Programs() {
   return (
@@ -19,8 +17,6 @@ function Programs() {
           </div>
           <div className="program-container flex gap-5">
             <div className="program1 p-5 rounded-2xl">
-              {/* <FontAwesomeIcon icon={faCoffee} style={{ color: "brown" }} /> */}
-              <FontAwesomeIcon icon={faCoffee} className="custom-icon" />
               <img src="" alt="" />
               <h4 className="font-bold text-xl">Strength Training</h4>
               <p className="text-sm my-3">
