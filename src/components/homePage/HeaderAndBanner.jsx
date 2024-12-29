@@ -36,8 +36,8 @@ function HeaderAndBanner() {
               <img
                 className="object-cover object-top rounded-full inline ml-4"
                 style={{ height: "60px", width: "200px" }}
-                src="src\assests\headerAndBanner\banner-img-2.png"
-                alt="guy-ligting-tyres"
+                src="\assests\headerAndBanner\banner-img-2.png"
+                alt="guy-lifting-tyres"
               />
             </h1>
             <p className="text-[15px] mt-7">
