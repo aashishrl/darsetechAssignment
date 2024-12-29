@@ -13,7 +13,7 @@ function Services() {
               <h4 className="font-bold text-lg pb-3 flex items-center gap-2">
                 <img
                   className="h-5"
-                  src="\assests\check.png"
+                  src="\assests\services\check.png"
                   alt="check-icon-img"
                 />{" "}
                 Personal Training
@@ -25,7 +25,7 @@ function Services() {
               <h4 className="font-bold text-lg pb-3 flex items-center gap-2">
                 <img
                   className="h-5"
-                  src="\assests\check.png"
+                  src="\assests\services\check.png"
                   alt="check-icon-img"
                 />{" "}
                 Expert Trainer
