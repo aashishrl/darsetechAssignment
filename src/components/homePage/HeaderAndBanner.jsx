@@ -10,7 +10,7 @@ function HeaderAndBanner() {
               <img
                 src="/assests/headerAndBanner/Logo.png"
                 style={{ height: "44px" }}
-                alt=""
+                alt="logo"
               />
             </div>
             <div>
