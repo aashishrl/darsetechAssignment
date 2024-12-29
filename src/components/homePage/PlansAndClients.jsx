@@ -29,10 +29,10 @@ function PlansAndClients() {
                   <span>/ Per Month</span>
                 </h3>
                 <ul className="text-[15px] pb-2">
-                  <li className="mb-4 flex items-center gap-3" ><img className="h-4" src="src\assests\tick.png" alt="tick-image" /> classes per month</li>
-                  <li className="mb-4 flex items-center gap-3" ><img className="h-4" src="src\assests\tick.png" alt="tick-image" /> 4 group class monthly</li>
-                  <li className="mb-4 flex items-center gap-3" ><img className="h-4" src="src\assests\tick.png" alt="tick-image" /> Online class access</li>
-                  <li className="mb-4 flex items-center gap-3" ><img className="h-4" src="src\assests\tick.png" alt="tick-image" /> E-book fitness guide</li>
+                  <li className="mb-4 flex items-center gap-3" ><img className="h-4" src="src\assests\plansAndClients\tick.png" alt="tick-image" /> classes per month</li>
+                  <li className="mb-4 flex items-center gap-3" ><img className="h-4" src="src\assests\plansAndClients\tick.png" alt="tick-image" /> 4 group class monthly</li>
+                  <li className="mb-4 flex items-center gap-3" ><img className="h-4" src="src\assests\plansAndClients\tick.png" alt="tick-image" /> Online class access</li>
+                  <li className="mb-4 flex items-center gap-3" ><img className="h-4" src="src\assests\plansAndClients\tick.png" alt="tick-image" /> E-book fitness guide</li>
                 </ul>
                 <button className="border mt-4 border-white px-14 py-[10px] rounded-full">
                   Choose Plan
@@ -45,11 +45,11 @@ function PlansAndClients() {
                   <span>/ Per Month</span>
                 </h3>
                 <ul className="text-[15px] pb-2">
-                  <li className="mb-4 flex items-center gap-3" ><img className="h-4" src="src\assests\tick1.png" alt="tick-image" /> 10 classes per month</li>
-                  <li className="mb-4 flex items-center gap-3" ><img className="h-4" src="src\assests\tick1.png" alt="tick-image" /> 8 group class monthly</li>
-                  <li className="mb-4 flex items-center gap-3" ><img className="h-4" src="src\assests\tick1.png" alt="tick-image" /> Online class access</li>
-                  <li className="mb-4 flex items-center gap-3" ><img className="h-4" src="src\assests\tick1.png" alt="tick-image" /> E-book fitness guide</li>
-                  <li className="mb-4 flex items-center gap-3" ><img className="h-4" src="src\assests\tick1.png" alt="tick-image" /> 7 Extra fitness training</li>                  
+                  <li className="mb-4 flex items-center gap-3" ><img className="h-4" src="src\assests\plansAndClients\tick1.png" alt="tick-image" /> 10 classes per month</li>
+                  <li className="mb-4 flex items-center gap-3" ><img className="h-4" src="src\assests\plansAndClients\tick1.png" alt="tick-image" /> 8 group class monthly</li>
+                  <li className="mb-4 flex items-center gap-3" ><img className="h-4" src="src\assests\plansAndClients\tick1.png" alt="tick-image" /> Online class access</li>
+                  <li className="mb-4 flex items-center gap-3" ><img className="h-4" src="src\assests\plansAndClients\tick1.png" alt="tick-image" /> E-book fitness guide</li>
+                  <li className="mb-4 flex items-center gap-3" ><img className="h-4" src="src\assests\plansAndClients\tick1.png" alt="tick-image" /> 7 Extra fitness training</li>                  
                 </ul>
                 <button className="bg-white mt-4 text-[#ff662d] px-14 py-[10px] rounded-full">
                   Choose Plan
@@ -62,10 +62,10 @@ function PlansAndClients() {
                   <span>/ Per Month</span>
                 </h3>
                 <ul className="text-[15px] pb-2">
-                  <li className="mb-4 flex items-center gap-3" ><img className="h-4" src="src\assests\tick.png" alt="tick-image" /> 7 classes per month</li>
-                  <li className="mb-4 flex items-center gap-3" ><img className="h-4" src="src\assests\tick.png" alt="tick-image" /> 6 group class monthly</li>
-                  <li className="mb-4 flex items-center gap-3" ><img className="h-4" src="src\assests\tick.png" alt="tick-image" /> Online class access</li>
-                  <li className="mb-4 flex items-center gap-3" ><img className="h-4" src="src\assests\tick.png" alt="tick-image" /> E-book fitness guide</li>
+                  <li className="mb-4 flex items-center gap-3" ><img className="h-4" src="src\assests\plansAndClients\tick.png" alt="tick-image" /> 7 classes per month</li>
+                  <li className="mb-4 flex items-center gap-3" ><img className="h-4" src="src\assests\plansAndClients\tick.png" alt="tick-image" /> 6 group class monthly</li>
+                  <li className="mb-4 flex items-center gap-3" ><img className="h-4" src="src\assests\plansAndClients\tick.png" alt="tick-image" /> Online class access</li>
+                  <li className="mb-4 flex items-center gap-3" ><img className="h-4" src="src\assests\plansAndClients\tick.png" alt="tick-image" /> E-book fitness guide</li>
                 </ul>
                 <button className="border mt-4 border-white px-14 py-[10px] rounded-full">
                   Choose Plan
@@ -90,24 +90,29 @@ function PlansAndClients() {
                   <img src="src\assests\plansAndClients\photo4.png" className="z-4 border-[3px] border-[#37383C] relative left-[-36px] h-14 w-14 object-cover rounded-full" alt="" />
                   <img src="src\assests\plansAndClients\add.png" className="z-5 relative  border-[3px] border-[#37383C] left-[-48px] h-[58px] w-[58px] object-cover rounded-full" alt="" />
                 </div>
-                <div>
-                  <img src="" alt="" />
-                  <p>4.9 ( 450 Reviews ) </p>
+                <div>                  
+                  <p className="ml-[-20px]"><i className="fa fa-star text-yellow-400 text-[24px] mr-2" aria-hidden="true"></i> 4.9 ( 450 Reviews ) </p>
                 </div>
               </div>
             </div>
             <div className="bg-[#464646] p-8 rounded-2xl relative">
               <div className="flex gap-4 items-center mb-4">
                 <img className="border-[#37383C] h-16 w-16 object-cover rounded-full" src="src\assests\plansAndClients\photo1.png" alt="" />
-                <img className="cursor-pointer absolute top-[95px] left-[-20px]" src="src\assests\plansAndClients\left-arrow.png" alt="left-arrow" />
-                <img className="cursor-pointer absolute right-[-20px] top-[95px]" src="src\assests\plansAndClients\right-arrow.png" alt="right-arrow" />
+                <img className="cursor-pointer absolute top-[105px] left-[-20px]" src="src\assests\plansAndClients\left-arrow.png" alt="left-arrow" />
+                <img className="cursor-pointer absolute right-[-20px] top-[105px]" src="src\assests\plansAndClients\right-arrow.png" alt="right-arrow" />
                 <div>
                   <p className="font-semibold">Farhan Rio</p>
                   <p className="text-sm">Happy Customer</p>
                 </div>
               </div>
-              <img src="" alt="" />
-              <p className="text-[15px]">
+              <span>
+                <i className="fa fa-star text-yellow-400 text-[22px] mr-1" aria-hidden="true"></i>
+                <i className="fa fa-star text-yellow-400 text-[22px] mr-1" aria-hidden="true"></i>
+                <i className="fa fa-star text-yellow-400 text-[22px] mr-1" aria-hidden="true"></i>
+                <i className="fa fa-star text-yellow-400 text-[22px] mr-1" aria-hidden="true"></i>
+                <i className="fa fa-star text-yellow-400 text-[22px] mr-1" aria-hidden="true"></i>
+              </span>
+              <p className="text-[15px] mt-2">
                 I've been coming to this gym for 3 years now <br /> and I've never been
                 in better shape. The trainers <br /> are amazing and they always push
                 me be my best. <br /> I'm so glad to this gym.

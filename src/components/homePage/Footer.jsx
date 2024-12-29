@@ -38,21 +38,28 @@ function Footer() {
                 <li className="font-semibold mb-[18px]">
                   Subscibe Our Newsletter
                 </li>
-                <li>
-                  <input type="text" />
-                  <img src="" alt="" />
-                </li>
+                <div className="bg-white px-4 py-2 flex items-center w-[260px] rounded-full mb-2">
+                  <input type="text" className="outline-none text-black" placeholder="Enter Your Email"/>
+                  <img src="src\assests\send-icon.png" className="h-[35px] cursor-pointer" alt="send-icon-img" />
+                </div>
                 <li className="text-[15px] mb-3">
-                  Never miss an update and news to your email
+                  Never miss an update and news <br /> to your email
+                  <i className="fa fa-paper-plane text-yellow-600" aria-hidden="true"></i>
+
                 </li>
               </ul>
             </div>
             <div className="flex justify-between items-center pt-7">
-              <img src="src\assests\headerAndBanner\Logo.png" className="w-[210px] h-[50px]" alt="" />
-              <p className="text-[15px] mb-3 text-[#5F5F61]">
+              <img src="src\assests\headerAndBanner\Logo.png" className="w-[210px] h-[45px]" alt="" />
+              <p className="text-[15px] text-[#5F5F61]">
                 @2023 Design AASHISH RL. All copyrights reserved.
               </p>
-              <div></div>
+              <div className="">
+                <i className="bg-white text-black px-2 py-1 rounded-full mr-2 fa fa-facebook" aria-hidden="true"></i>
+                <i className="bg-white text-black p-1 rounded-full mr-2 fa fa-instagram" aria-hidden="true"></i>
+                <i className="bg-white text-black p-1 rounded-full mr-2 fa fa-twitter" aria-hidden="true"></i>
+                <i className="bg-white text-black p-1 rounded-full mr-2 fa fa-linkedin" aria-hidden="true"></i>
+              </div>
             </div>
           </div>
         </div>

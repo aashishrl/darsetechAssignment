@@ -8,12 +8,12 @@ function HeaderAndBanner() {
           <div className="relative">
             <img
               className="rounded-2xl top-[16px] relative"
-              src="src\assests\was.png"
-              alt=""
+              src="src\assests\fitnessGoals\fitnessGoals-img.png"
+              alt="fitnessGoals-img"
             />
             <img
               className="absolute h-[80px] left-[340px] bottom-20"
-              src="src\assests\pro-trainer.png"
+              src="src\assests\fitnessGoals\pro-trainer.png"
               alt=""
             />
           </div>
