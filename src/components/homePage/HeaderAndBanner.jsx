@@ -51,7 +51,7 @@ function HeaderAndBanner() {
               <div className="flex items-center gap-2">
                 <a href="">
                 <img
-                  src="src\assests\headerAndBanner\playicon.png"
+                  src="\assests\headerAndBanner\playicon.png"
                   style={{ height: "50px" }}
                   alt="playicon-image"
                 />
@@ -76,9 +76,9 @@ function HeaderAndBanner() {
           </div>
           <div className="relative w-[50%]">
             <div>
-              <img className="relative top-[120px] z-[2]" src="src\assests\headerAndBanner\lala.png" alt="" />
-              <img className="absolute w-[350px] rotate-12 z-[1] top-[134px] right-[147px]" src="src\assests\headerAndBanner\dots.png" alt="" />
-              <img className="absolute bottom-10 z-[3] h-[100px] left-[120px]" src="src\assests\headerAndBanner\calories.png" alt="" />
+              <img className="relative top-[120px] z-[2]" src="\assests\headerAndBanner\lala.png" alt="banner-image" />
+              <img className="absolute w-[350px] rotate-12 z-[1] top-[134px] right-[147px]" src="\assests\headerAndBanner\dots.png" alt="" />
+              <img className="absolute bottom-10 z-[3] h-[100px] left-[120px]" src="\assests\headerAndBanner\calories.png" alt="" />
             </div>
           </div>
         </div>
