@@ -8,7 +8,7 @@ function HeaderAndBanner() {
           <div className="flex justify-between items-center">
             <div>
               <img
-                src="src\assests\headerAndBanner\Logo.png"
+                src="/assests/headerAndBanner/Logo.png"
                 style={{ height: "44px" }}
                 alt=""
               />
