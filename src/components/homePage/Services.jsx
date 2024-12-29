@@ -13,7 +13,7 @@ function Services() {
               <h4 className="font-bold text-lg pb-3 flex items-center gap-2">
                 <img
                   className="h-5"
-                  src="src\assests\check.png"
+                  src="\assests\check.png"
                   alt="check-icon-img"
                 />{" "}
                 Personal Training
@@ -25,7 +25,7 @@ function Services() {
               <h4 className="font-bold text-lg pb-3 flex items-center gap-2">
                 <img
                   className="h-5"
-                  src="src\assests\check.png"
+                  src="\assests\check.png"
                   alt="check-icon-img"
                 />{" "}
                 Expert Trainer
@@ -38,7 +38,7 @@ function Services() {
               <h4 className="font-bold text-lg pb-3 flex items-center gap-2">
                 <img
                   className="h-5"
-                  src="src\assests\services\check.png"
+                  src="\assests\services\check.png"
                   alt="check-icon-img"
                 />{" "}
                 Flexible Time
@@ -54,17 +54,17 @@ function Services() {
             <div className="w-50% relative">
               <img
                 className="relative w-[500px] object-cover right-10 bottom-9"
-                src="src\assests\services\services-img.png"
+                src="\assests\services\services-img.png"
                 alt="services-img"
               />
               <img
                 className="absolute h-[70px] top-28 right-[-15px]"
-                src="src\assests\services\heart-rate.png"
+                src="\assests\services\heart-rate.png"
                 alt="heart-rate"
               />
               <img
                 className="absolute h-[70px] bottom-[175px] left-[-60px]"
-                src="src\assests\services\fat-burning.png"
+                src="\assests\services\fat-burning.png"
                 alt="fat-burning"
               />
             </div>

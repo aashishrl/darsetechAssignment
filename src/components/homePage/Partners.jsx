@@ -11,9 +11,9 @@ function Partners() {
               <p className="font-bold text-[20px]">Trusted Companies Partner</p>
             </div>
             <div className="flex items-center gap-4">
-              <img src="src\assests\partners\videoask-logo.png" style={{ height: "50px" }} alt="video ask company logo"/>
-              <img className="relative bottom-[3px] right-3 h-[60px]" src="src\assests\partners\hubspot-logo.png" alt="hubspot company logo"/>
-              <img src="src\assests\partners\mapbox-logo.png" style={{ height: "50px" }} alt="mapbox company logo"/>
+              <img src="\assests\partners\videoask-logo.png" style={{ height: "50px" }} alt="video ask company logo"/>
+              <img className="relative bottom-[3px] right-3 h-[60px]" src="\assests\partners\hubspot-logo.png" alt="hubspot company logo"/>
+              <img src="\assests\partners\mapbox-logo.png" style={{ height: "50px" }} alt="mapbox company logo"/>
             </div>
           </div>
         </div>

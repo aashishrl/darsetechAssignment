@@ -40,7 +40,7 @@ function Footer() {
                 </li>
                 <div className="bg-white px-4 py-2 flex items-center w-[260px] rounded-full mb-2">
                   <input type="text" className="outline-none text-black" placeholder="Enter Your Email"/>
-                  <img src="src\assests\send-icon.png" className="h-[35px] cursor-pointer" alt="send-icon-img" />
+                  <img src="\assests\send-icon.png" className="h-[35px] cursor-pointer" alt="send-icon-img" />
                 </div>
                 <li className="text-[15px] mb-3">
                   Never miss an update and news <br /> to your email
@@ -50,7 +50,7 @@ function Footer() {
               </ul>
             </div>
             <div className="flex justify-between items-center pt-7">
-              <img src="src\assests\headerAndBanner\Logo.png" className="w-[210px] h-[45px]" alt="" />
+              <img src="\assests\headerAndBanner\Logo.png" className="w-[210px] h-[45px]" alt="" />
               <p className="text-[15px] text-[#5F5F61]">
                 @2023 Design AASHISH RL. All copyrights reserved.
               </p>
